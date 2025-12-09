@@ -34,9 +34,19 @@ Actualment treballo amb **Python** i **Visual Studio**, i m'encanta aprendre cos
 
 ---
 
-## 📊 Estadístiques de GitHub
+## 🎓 Llocs d'aprenentatge
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=el_teu_usuari&show_icons=true&theme=radical)
+- [Institut Cendrassos](https://cendrassos.net) 
+- [Institut Narcís Monturiol](https://agora.xtec.cat/iesmonturiol/) 
+- [Institut Bosc de la Coma](https://www.boscdelacoma.cat)
+
+---
+---
+
+## 💼 On he treballat
+
+- [Alregi S.L.](https://www.alregi.es) 
+- [Pcsystem (Figueres)](https://pcsystem.shop) 
 
 ---
 
