@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hola! 👋 Sóc Damià
 
-<!--
-**damiavinas07/damiavinas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sóc un apassionat del desenvolupament i de la tecnologia. 🚀  
+Actualment treballo amb **Python** i **Visual Studio**, i m'encanta aprendre coses noves cada dia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projectes actuals
+- 🌱 Aprenentatge constant de **IA i Machine Learning**
+- 📚 Estudiant **ASIX**
+
+---
+
+## 🌟 Habilitats
+
+### **Llenguatges**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Sistemes i entorns**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### **Altres**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📫 Contacta'm
+- Correu: [dvinas754@boscdelacoma.cat](mailto:dvinas754@boscdelacoma.cat)  
+
+---
+
+## 📊 Estadístiques de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=el_teu_usuari&show_icons=true&theme=radical)
+
+---
+
+## ⚡ Curiositats
+- ☕ Amant del manga i els còmics  
+- 🎮 Gamer de ocasió  
+- 🌍 Apassionat per la cultura i la gastronomia
